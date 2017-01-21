@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/HKBU_Logo.svg/1024px-HKBU_Logo.svg.png
+external-image: true
 picture: https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/HKBU_Logo.svg/1024px-HKBU_Logo.svg.png
 
 url: https://chungyin.github.io/indigo
