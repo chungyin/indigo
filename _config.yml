@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: http://kto.hkbu.edu.hk/images/headerbanner_hkbu.png
-picture: http://kto.hkbu.edu.hk/images/headerbanner_hkbu.png
+external-image: https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/HKBU_Logo.svg/1024px-HKBU_Logo.svg.png
+picture: https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/HKBU_Logo.svg/1024px-HKBU_Logo.svg.png
 
 url: https://chungyin.github.io/indigo
 # your url: http://USERNAME.github.io
