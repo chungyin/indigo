@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/analytics.jpg
+external-image: https://goo.gl/images/WcwKRP
+picture: /Users/u14223015/Desktop/1024px-HKBU_Logo
 
 url: https://chungyin.github.io/indigo
 # your url: http://USERNAME.github.io
