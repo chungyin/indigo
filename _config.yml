@@ -1,6 +1,6 @@
 # main text of home
 name: Chung yin
-bio: my new tagline
+bio: Be True
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,9 +8,9 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/analytics.jpg
+picture: https://goo.gl/images/WcwKRP
 
-url: https://hupilidemo.github.io/indigo
+url: https://chungyin.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
