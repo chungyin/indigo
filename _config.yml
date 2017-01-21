@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: MAC HD/Users/u14223015/Desktop/1024px-HKBU_Logo
+external-image: http://kto.hkbu.edu.hk/images/headerbanner_hkbu.png
+picture: 
 
 url: https://chungyin.github.io/indigo
 # your url: http://USERNAME.github.io
